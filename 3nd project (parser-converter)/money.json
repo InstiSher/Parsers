@@ -1,0 +1,303 @@
+[
+    {
+        "Digits. code": "036",
+        "Letters. code": "AUD",
+        "Units": "1",
+        "Currency": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
+        "Course": "59,2725"
+    },
+    {
+        "Digits. code": "944",
+        "Letters. code": "AZN",
+        "Units": "1",
+        "Currency": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\u0441\u043a\u0438\u0439 \u043c\u0430\u043d\u0430\u0442",
+        "Course": "53,6238"
+    },
+    {
+        "Digits. code": "051",
+        "Letters. code": "AMD",
+        "Units": "100",
+        "Currency": "\u0410\u0440\u043c\u044f\u043d\u0441\u043a\u0438\u0445 \u0434\u0440\u0430\u043c\u043e\u0432",
+        "Course": "22,5628"
+    },
+    {
+        "Digits. code": "933",
+        "Letters. code": "BYN",
+        "Units": "1",
+        "Currency": "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0440\u0443\u0431\u043b\u044c",
+        "Course": "28,2388"
+    },
+    {
+        "Digits. code": "975",
+        "Letters. code": "BGN",
+        "Units": "1",
+        "Currency": "\u0411\u043e\u043b\u0433\u0430\u0440\u0441\u043a\u0438\u0439 \u043b\u0435\u0432",
+        "Course": "50,3988"
+    },
+    {
+        "Digits. code": "986",
+        "Letters. code": "BRL",
+        "Units": "1",
+        "Currency": "\u0411\u0440\u0430\u0437\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0435\u0430\u043b",
+        "Course": "18,4267"
+    },
+    {
+        "Digits. code": "348",
+        "Letters. code": "HUF",
+        "Units": "100",
+        "Currency": "\u0412\u0435\u043d\u0433\u0435\u0440\u0441\u043a\u0438\u0445 \u0444\u043e\u0440\u0438\u043d\u0442\u043e\u0432",
+        "Course": "24,9809"
+    },
+    {
+        "Digits. code": "410",
+        "Letters. code": "KRW",
+        "Units": "1000",
+        "Currency": "\u0412\u043e\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438 \u041a\u043e\u0440\u0435\u044f",
+        "Course": "68,3105"
+    },
+    {
+        "Digits. code": "704",
+        "Letters. code": "VND",
+        "Units": "10000",
+        "Currency": "\u0412\u044c\u0435\u0442\u043d\u0430\u043c\u0441\u043a\u0438\u0445 \u0434\u043e\u043d\u0433\u043e\u0432",
+        "Course": "37,9645"
+    },
+    {
+        "Digits. code": "344",
+        "Letters. code": "HKD",
+        "Units": "1",
+        "Currency": "\u0413\u043e\u043d\u043a\u043e\u043d\u0433\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
+        "Course": "11,6738"
+    },
+    {
+        "Digits. code": "981",
+        "Letters. code": "GEL",
+        "Units": "1",
+        "Currency": "\u0413\u0440\u0443\u0437\u0438\u043d\u0441\u043a\u0438\u0439 \u043b\u0430\u0440\u0438",
+        "Course": "34,2837"
+    },
+    {
+        "Digits. code": "208",
+        "Letters. code": "DKK",
+        "Units": "1",
+        "Currency": "\u0414\u0430\u0442\u0441\u043a\u0430\u044f \u043a\u0440\u043e\u043d\u0430",
+        "Course": "13,2645"
+    },
+    {
+        "Digits. code": "784",
+        "Letters. code": "AED",
+        "Units": "1",
+        "Currency": "\u0414\u0438\u0440\u0445\u0430\u043c \u041e\u0410\u042d",
+        "Course": "24,8224"
+    },
+    {
+        "Digits. code": "840",
+        "Letters. code": "USD",
+        "Units": "1",
+        "Currency": "\u0414\u043e\u043b\u043b\u0430\u0440 \u0421\u0428\u0410",
+        "Course": "91,1604"
+    },
+    {
+        "Digits. code": "978",
+        "Letters. code": "EUR",
+        "Units": "1",
+        "Currency": "\u0415\u0432\u0440\u043e",
+        "Course": "98,9366"
+    },
+    {
+        "Digits. code": "818",
+        "Letters. code": "EGP",
+        "Units": "10",
+        "Currency": "\u0415\u0433\u0438\u043f\u0435\u0442\u0441\u043a\u0438\u0445 \u0444\u0443\u043d\u0442\u043e\u0432",
+        "Course": "29,5061"
+    },
+    {
+        "Digits. code": "356",
+        "Letters. code": "INR",
+        "Units": "10",
+        "Currency": "\u0418\u043d\u0434\u0438\u0439\u0441\u043a\u0438\u0445 \u0440\u0443\u043f\u0438\u0439",
+        "Course": "10,9976"
+    },
+    {
+        "Digits. code": "360",
+        "Letters. code": "IDR",
+        "Units": "10000",
+        "Currency": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0439\u0441\u043a\u0438\u0445 \u0440\u0443\u043f\u0438\u0439",
+        "Course": "57,9790"
+    },
+    {
+        "Digits. code": "398",
+        "Letters. code": "KZT",
+        "Units": "100",
+        "Currency": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0438\u0445 \u0442\u0435\u043d\u0433\u0435",
+        "Course": "20,1082"
+    },
+    {
+        "Digits. code": "124",
+        "Letters. code": "CAD",
+        "Units": "1",
+        "Currency": "\u041a\u0430\u043d\u0430\u0434\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
+        "Course": "67,1680"
+    },
+    {
+        "Digits. code": "634",
+        "Letters. code": "QAR",
+        "Units": "1",
+        "Currency": "\u041a\u0430\u0442\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0438\u0430\u043b",
+        "Course": "25,0441"
+    },
+    {
+        "Digits. code": "417",
+        "Letters. code": "KGS",
+        "Units": "10",
+        "Currency": "\u041a\u0438\u0440\u0433\u0438\u0437\u0441\u043a\u0438\u0445 \u0441\u043e\u043c\u043e\u0432",
+        "Course": "10,1935"
+    },
+    {
+        "Digits. code": "156",
+        "Letters. code": "CNY",
+        "Units": "1",
+        "Currency": "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u044e\u0430\u043d\u044c",
+        "Course": "12,6180"
+    },
+    {
+        "Digits. code": "498",
+        "Letters. code": "MDL",
+        "Units": "10",
+        "Currency": "\u041c\u043e\u043b\u0434\u0430\u0432\u0441\u043a\u0438\u0445 \u043b\u0435\u0435\u0432",
+        "Course": "51,3626"
+    },
+    {
+        "Digits. code": "554",
+        "Letters. code": "NZD",
+        "Units": "1",
+        "Currency": "\u041d\u043e\u0432\u043e\u0437\u0435\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
+        "Course": "55,5531"
+    },
+    {
+        "Digits. code": "934",
+        "Letters. code": "TMT",
+        "Units": "1",
+        "Currency": "\u041d\u043e\u0432\u044b\u0439 \u0442\u0443\u0440\u043a\u043c\u0435\u043d\u0441\u043a\u0438\u0439 \u043c\u0430\u043d\u0430\u0442",
+        "Course": "26,0458"
+    },
+    {
+        "Digits. code": "578",
+        "Letters. code": "NOK",
+        "Units": "10",
+        "Currency": "\u041d\u043e\u0440\u0432\u0435\u0436\u0441\u043a\u0438\u0445 \u043a\u0440\u043e\u043d",
+        "Course": "86,4834"
+    },
+    {
+        "Digits. code": "985",
+        "Letters. code": "PLN",
+        "Units": "1",
+        "Currency": "\u041f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0437\u043b\u043e\u0442\u044b\u0439",
+        "Course": "22,8828"
+    },
+    {
+        "Digits. code": "946",
+        "Letters. code": "RON",
+        "Units": "1",
+        "Currency": "\u0420\u0443\u043c\u044b\u043d\u0441\u043a\u0438\u0439 \u043b\u0435\u0439",
+        "Course": "19,8953"
+    },
+    {
+        "Digits. code": "960",
+        "Letters. code": "XDR",
+        "Units": "1",
+        "Currency": "\u0421\u0414\u0420 (\u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u0430\u0432\u0430 \u0437\u0430\u0438\u043c\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u044f)",
+        "Course": "121,0975"
+    },
+    {
+        "Digits. code": "941",
+        "Letters. code": "RSD",
+        "Units": "100",
+        "Currency": "\u0421\u0435\u0440\u0431\u0441\u043a\u0438\u0445 \u0434\u0438\u043d\u0430\u0440\u043e\u0432",
+        "Course": "84,4472"
+    },
+    {
+        "Digits. code": "702",
+        "Letters. code": "SGD",
+        "Units": "1",
+        "Currency": "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440\u0441\u043a\u0438\u0439 \u0434\u043e\u043b\u043b\u0430\u0440",
+        "Course": "67,8479"
+    },
+    {
+        "Digits. code": "972",
+        "Letters. code": "TJS",
+        "Units": "10",
+        "Currency": "\u0422\u0430\u0434\u0436\u0438\u043a\u0441\u043a\u0438\u0445 \u0441\u043e\u043c\u043e\u043d\u0438",
+        "Course": "83,1786"
+    },
+    {
+        "Digits. code": "764",
+        "Letters. code": "THB",
+        "Units": "10",
+        "Currency": "\u0422\u0430\u0438\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0445 \u0431\u0430\u0442\u043e\u0432",
+        "Course": "25,4575"
+    },
+    {
+        "Digits. code": "949",
+        "Letters. code": "TRY",
+        "Units": "10",
+        "Currency": "\u0422\u0443\u0440\u0435\u0446\u043a\u0438\u0445 \u043b\u0438\u0440",
+        "Course": "28,9995"
+    },
+    {
+        "Digits. code": "860",
+        "Letters. code": "UZS",
+        "Units": "10000",
+        "Currency": "\u0423\u0437\u0431\u0435\u043a\u0441\u043a\u0438\u0445 \u0441\u0443\u043c\u043e\u0432",
+        "Course": "72,7827"
+    },
+    {
+        "Digits. code": "980",
+        "Letters. code": "UAH",
+        "Units": "10",
+        "Currency": "\u0423\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0445 \u0433\u0440\u0438\u0432\u0435\u043d",
+        "Course": "23,7933"
+    },
+    {
+        "Digits. code": "826",
+        "Letters. code": "GBP",
+        "Units": "1",
+        "Currency": "\u0424\u0443\u043d\u0442 \u0441\u0442\u0435\u0440\u043b\u0438\u043d\u0433\u043e\u0432 \u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u043e\u0433\u043e \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u0430",
+        "Course": "115,7555"
+    },
+    {
+        "Digits. code": "203",
+        "Letters. code": "CZK",
+        "Units": "10",
+        "Currency": "\u0427\u0435\u0448\u0441\u043a\u0438\u0445 \u043a\u0440\u043e\u043d",
+        "Course": "38,9958"
+    },
+    {
+        "Digits. code": "752",
+        "Letters. code": "SEK",
+        "Units": "10",
+        "Currency": "\u0428\u0432\u0435\u0434\u0441\u043a\u0438\u0445 \u043a\u0440\u043e\u043d",
+        "Course": "87,9460"
+    },
+    {
+        "Digits. code": "756",
+        "Letters. code": "CHF",
+        "Units": "1",
+        "Currency": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043a\u0438\u0439 \u0444\u0440\u0430\u043d\u043a",
+        "Course": "102,9131"
+    },
+    {
+        "Digits. code": "710",
+        "Letters. code": "ZAR",
+        "Units": "10",
+        "Currency": "\u042e\u0436\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 \u0440\u044d\u043d\u0434\u043e\u0432",
+        "Course": "47,8261"
+    },
+    {
+        "Digits. code": "392",
+        "Letters. code": "JPY",
+        "Units": "100",
+        "Currency": "\u042f\u043f\u043e\u043d\u0441\u043a\u0438\u0445 \u0438\u0435\u043d",
+        "Course": "60,6241"
+    }
+]
