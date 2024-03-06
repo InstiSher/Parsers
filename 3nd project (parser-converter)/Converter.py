@@ -11,5 +11,6 @@ for i in data:
         money = int(input(f'Введите деньги в {i['Currency']} '))
         multiply = round(money/int(i['Units']), 3)
         money_end = multiply * float(i['Course'])
-        print(f'{money} {i['Currency']} в рубля будет {money_end}')
+        print(f'{money} {i['Currency']} в рублях будет {money_end}')
+        break
 
