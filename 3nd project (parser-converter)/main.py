@@ -2,10 +2,9 @@ from bs4 import BeautifulSoup
 import requests
 import json
 
-def main():
-    pass
 
-    # data =  Можем записать дату и передавать в url
+def main():
+    # datatime =  Можем записать дату и передавать в url
     url = 'https://cbr.ru/currency_base/daily/'
 
     link = requests.get(url)
@@ -21,6 +20,7 @@ def main():
         data.append(item.text)
 
     for count in range(0, len(data), 5):
+        data[count+4] = data[count+4].replace(",", ".")
         money_dict = {
             'Digits. code': data[count],
             'Letters. code': data[count+1],
@@ -33,9 +33,7 @@ def main():
     with open('money.json', 'w') as json_file:
         json.dump(money_data, json_file, indent=4)
 
+
 if __name__ == '__main__':
     main()
-    with open('money.json') as f:
-        data = json.load(f)
-        print(data)
 
