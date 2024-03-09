@@ -7,16 +7,6 @@ import time
 
 bot = telebot.TeleBot(token)
 
-@bot.message_handler(content_types=['audio', 'photo', 'sticker', 'video'])
-def momentom_v_converter(message):
-    print(message)
-    if message.from_user.username == "Kitsune_KA" or message.from_user.username == "Ded_hurricane":
-        global Komplimenti
-        print('Опа Комплимент')
-        bot.send_message(message.chat.id, text=f"Ты {Komplimenti[random.randint(0, 4)]}, Элина")
-        time.sleep(1)
-        bot.send_message(message.chat.id, text=f"Даже для Бота ❤️")
-
 
 @bot.message_handler(commands=['start'])
 def start(message):
