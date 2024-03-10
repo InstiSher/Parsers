@@ -4,7 +4,6 @@ import json
 
 
 def parser():
-    # datatime =  Можем записать дату и передавать в url
     url = 'https://cbr.ru/currency_base/daily/'
 
     link = requests.get(url)
@@ -35,6 +34,11 @@ def parser():
         # Надо добавить дату взятых данных и добавить в json в конвертере вытаскивать для доп инфы, что мол тогда были взяты
         # в money_data добавить это, в конце где-то Либо ещё что-то придумать
         # например  сделать ещё один with open... и там добавить Дату, и в конвертере убрать в переменную
+
+    datatime = str(soup.find(class_="datepicker-filter_button"))
+    datatime = datatime[-19:-9]
+    with open('datatime.txt', 'w') as file:
+        file.write(datatime)
 
 parser()
 
