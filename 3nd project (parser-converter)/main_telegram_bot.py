@@ -5,6 +5,7 @@ from Converter import ConverterTelebot
 import random
 import time
 import json
+import Parser
 
 bot = telebot.TeleBot(token)
 
