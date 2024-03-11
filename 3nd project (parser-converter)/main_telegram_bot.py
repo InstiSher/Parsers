@@ -22,17 +22,6 @@ def units(message):
                                            f'Актуальность информации: {datatime}')
 
 
-@bot.message_handler(content_types=['audio', 'photo', 'sticker', 'video'])
-def momentom_v_converter(message):
-    print(message)
-    if message.from_user.username == "Kitsune_KA" or message.from_user.username == "Ded_hurricane":
-        global Komplimenti
-        print('Опа Комплимент')
-        bot.send_message(message.chat.id, text=f"Ты {Komplimenti[random.randint(0, 4)]}, Элина")
-        time.sleep(1)
-        bot.send_message(message.chat.id, text=f"Даже для Бота ❤️")
-
-
 @bot.message_handler(commands=['start'])
 def start(message):
     markup = types.ReplyKeyboardMarkup()
@@ -78,5 +67,4 @@ def converter(message):
 
 
 if __name__ == "__main__":
-    Komplimenti = ['Самая Прекрасная', 'Великолепна', 'Волшебна', 'Лучшая', 'Самая Красивая']
     bot.infinity_polling()
