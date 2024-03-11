@@ -22,6 +22,8 @@
 
 ![image](https://github.com/InstiSher/Parsers/assets/139463051/5e0f76a0-f309-479e-9b3c-d4e4f316ffd5)
 
+Апдейт 11.03.24: Телеграмм бот полностью завершен! Можно увидеть все и перевести все, вот Бот: https://t.me/ConverterChertov_bot
+
 
 # Шикарная проблема JSON файла
 
